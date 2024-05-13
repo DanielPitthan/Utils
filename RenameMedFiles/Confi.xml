@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<ConnectionString name="conBD_Protheus" connectionString="" tabelaSra="SRA010" tabelaC9V="C9V010"/>
+	<Token value="125498552525512528"/>
+	<Evento name="evento" value="s-2220" description="Monitoramento da Saúde do Trabalhador"/>
+	<Evento name="evento" value="s-2210" description="Comunicação de Acidente de Trabalho"/>
+	<Evento name="evento" value="s-2240" description="Condições Ambientais do Trabalho – Fatores de Risco"/>
+</configuration>
